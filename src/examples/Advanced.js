@@ -6,17 +6,17 @@ const db = [
   {
     name: '2 rm. · Apartment · 75 m² 13.500 kr.',
     address: 'Ben Websters Vej, 2450 København, København SV - 2nd floor',
-    url: 'https://boligportal-dk.imgix.net/e488520ce8146ae7d9ed7beee048a7cd?auto=compress,enhance,format&h=590'
+    url: 'https://www.compass.com/m/36390540b870260d305e46f1a9bdaa68fd4d2051_img_0_eb16d/640x480.jpg'
   },
   {
     name: '5 room townhouse of 145 m² 18.500 kr.',
     address: 'Christiansholms Vænge, 2930 København, Klampenborg - Ground floor',
-    url: 'https://boligportal-dk.imgix.net/a62c65db6fab15b3a533e56500b77c4f?auto=compress,enhance,format&h=590'
+    url: 'https://photos.zillowstatic.com/fp/d13c4f130d801d65b6ec772dbfc5b443-p_e.jpg'
   },
   {
     name: '3 room apartment of 131 m² 26.500 kr.',
     address: 'Ben Websters Vej, 2450 København, København SV - 2nd floor',
-    url: 'https://boligportal-dk.imgix.net/81a8daef797c8f166aa78d009cd2b3ea?auto=compress,enhance,format&h=590'
+    url: 'https://imganuncios.mitula.net/7116_208a_street_langley_bc_v2y_1t3_3_bedroom_house_for_rent_for_3500_month_7990067668261295485.jpg'
   },
 ]
 
